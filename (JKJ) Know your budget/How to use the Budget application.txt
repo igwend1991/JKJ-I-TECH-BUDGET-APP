@@ -1,0 +1,14 @@
+1. After downlading the budget files, look for "index.html" and click on it
+2. The budget home page will now open with it's default setting having the default balance after expenses,
+income box, expenses box etc.
+3. To use the application, click on Add description and type either income gotten leavining the
+plus (+) sign active. Note; THE PLUS SIGN INDICATE INCOME WHILE THE NEGATIVE SIGN (-) INDICATE  EXPENSES
+After typing description for either income or expenses, click on the value box and input the amount for 
+either expenses or income, note : ONLY FIGURES . then click on the good/enter check box to add
+the Description either in income or expenses path depending on the one you select.
+4. After that your balance , income and expenses will display accordinly depending on the budget you entered.
+
+ENJOy
+for more contact
++2347039463254
+JKJ I-TECH
